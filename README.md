@@ -50,7 +50,7 @@ Todas devuelven un diccionario con `"status": "success"` y los datos, o `"status
 Requisitos: Python 3.10 o superior y [Ollama](https://ollama.com/) instalado.
 
 ```powershell
-git clone https://github.com/<tu-usuario>/agent_adk_axel_gaona.git
+git clone https://github.com/AxelGaona1453/agent_adk_axel_gaona.git
 cd agent_adk_axel_gaona
 python -m venv .venv
 .venv\Scripts\activate          # En Linux/Mac: source .venv/bin/activate
